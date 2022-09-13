@@ -3,7 +3,7 @@ title: "Hugo主题Doit---扩展Shortcodes"
 date: 2022-09-13T11:23:03+08:00
 draft: false
 authors: ["Alan"]
-tags: ["hugo","hugo-theme","content"]
+tags: ["hugo","hugo-theme"]
 categories: ["hugo"]
 series: ["hugo-theme-doit"]
 series_weight: 4
