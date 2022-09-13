@@ -1,0 +1,5 @@
+name = "scshark"
+link = "https://scshark.com"
+email = "bigscshark@gmail.com"
+[zh-cn]
+    name = "大沙井"

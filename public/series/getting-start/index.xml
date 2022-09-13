@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>开始使用 DoIt - 系列 - scshark</title>
+        <link>http://scshark.com/series/getting-start/</link>
+        <description>开始使用 DoIt - 系列 - scshark</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>bigscshark@gmail.com (scshark)</managingEditor>
+            <webMaster>bigscshark@gmail.com (scshark)</webMaster><atom:link href="http://scshark.com/series/getting-start/" rel="self" type="application/rss+xml" /></channel>
+</rss>
