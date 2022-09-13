@@ -17,6 +17,9 @@ jobs:
         hugo_version: ["latest"]
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
 
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2
@@ -30,9 +33,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
-      - name: Initialize doit
-        uses: github/HEIGE-PCloud/DoIt@main
 
       - name: Build
         run: hugo -v --gc
