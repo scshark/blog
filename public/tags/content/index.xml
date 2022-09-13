@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>内容 - 标签 - scshark</title>
+        <link>http://scshark.com/tags/content/</link>
+        <description>内容 - 标签 - scshark</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>bigscshark@gmail.com (scshark)</managingEditor>
+            <webMaster>bigscshark@gmail.com (scshark)</webMaster><lastBuildDate>Tue, 13 Sep 2022 11:23:03 &#43;0800</lastBuildDate><atom:link href="http://scshark.com/tags/content/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo主题Doit---扩展Shortcodes</title>
+    <link>http://scshark.com/hugo-theme-extend-shortcodes/</link>
+    <pubDate>Tue, 13 Sep 2022 11:23:03 &#43;0800</pubDate><author>
+                        <name>老刘</name><uri>http://scshark.com/authors/alan</uri></author><guid>http://scshark.com/hugo-theme-extend-shortcodes/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://blog.cdn.scshark.com/scshark/2022-09-13%20/featured-image-preview-16630459288922.webp" referrerpolicy="no-referrer">
+            </div><p><strong>DoIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
+</item></channel>
+</rss>
