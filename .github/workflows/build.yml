@@ -31,5 +31,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Initialize doit
+        uses: github/HEIGE-PCloud/DoIt
+
       - name: Build
-        run: hugo -v  --gc
+        run: hugo -v --gc
