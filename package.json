@@ -4,10 +4,10 @@
   "description": "DoIt theme source file",
   "private": true,
   "scripts": {
-    "build": "hugo -v --source=exampleSite --themesDir ../.. --gc",
-    "build:preview": "hugo -v --source=exampleSite --themesDir ../.. -D --gc",
-    "server": "hugo server --source=exampleSite --themesDir ../.. -D --disableFastRender",
-    "server:production": "hugo server --source=exampleSite --themesDir ../.. --disableFastRender -e production",
+    "build": "hugo -v --gc",
+    "build:preview": "hugo -v -D --gc",
+    "server": "hugo server -D --disableFastRender",
+    "server:production": "hugo server --disableFastRender -e production",
     "algolia": "atomic-algolia"
   },
   "repository": {
