@@ -1,0 +1,9 @@
+.DS_Store
+.MWebMetaData/
+archetypes/
+assets/
+content/
+data/
+resources/
+static/
+themes/

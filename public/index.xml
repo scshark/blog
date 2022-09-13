@@ -4,7 +4,7 @@
         <link>http://scshark.com/</link>
         <description>scshark的blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>bigscshark@gmail.com (scshark)</managingEditor>
-            <webMaster>bigscshark@gmail.com (scshark)</webMaster><lastBuildDate>Tue, 13 Sep 2022 11:23:03 &#43;0800</lastBuildDate>
+            <webMaster>bigscshark@gmail.com (scshark)</webMaster><lastBuildDate>Tue, 13 Sep 2022 15:07:34 &#43;0800</lastBuildDate>
             <atom:link href="http://scshark.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Hugo主题Doit---扩展Shortcodes</title>
@@ -30,13 +30,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="https://blog.cdn.scshark.com/scshark/2022-09-13%20/featured-image-16630380960116.webp" referrerpolicy="no-referrer">
             </div><p>了解如何在 <strong>DoIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
-</item><item>
-    <title>Hugo主题Doit---基本配置</title>
-    <link>http://scshark.com/hugo-theme-conf-basic/</link>
-    <pubDate>Fri, 09 Sep 2022 16:21:02 &#43;0800</pubDate><author>
-                        <name>老刘</name><uri>http://scshark.com/authors/alan</uri></author><guid>http://scshark.com/hugo-theme-conf-basic/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="https://blog.cdn.scshark.com/scshark/2022-09-13%20/featured-image-16630497553576.webp" referrerpolicy="no-referrer">
-            </div><p>探索 Hugo - <strong>DoIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
 </item></channel>
 </rss>
