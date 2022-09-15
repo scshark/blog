@@ -1,38 +1,22 @@
-name: Build
-
-on:
-  #push:
-  #  branches: [ main ]
-  #pull_request:
-  #  branches: [ main ]
-  workflow_dispatch:
-
+name: SSH Server Deploy
+on: [push]
 jobs:
   build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      fail-fast: false
-      matrix:
-        os: [ubuntu-latest]
-        hugo_version: ["latest"]
+    name: Build
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: SSH Server Deploy
+        uses: kostya-ten/ssh-server-deploy@v4
         with:
-          submodules: recursive
-          fetch-depth: 0
-
-      - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: ${{ matrix.hugo_version }}
-          extended: true
-
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build
-        run: hugo -v --gc
+          host: ${{ secrets.SERVER_HOST }}
+          port: ${{ secrets.SERVER_PORT }}
+          username: ${{ secrets.SERVER_USERNAME }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
+          scp_source: README.md
+          scp_target: ~/
+          before_script: |
+            df -h
+          after_script: |
+            whoami
