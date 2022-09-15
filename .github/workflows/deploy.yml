@@ -16,7 +16,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           before_script: |
             df -h
-            cd /scshark/blog && git pull
-            hugo -v --gc
+            cd /scshark/blog && git pull origin main
           after_script: |
+            hugo -v --gc
             whoami
