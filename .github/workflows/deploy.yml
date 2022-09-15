@@ -16,6 +16,6 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           before_script: |
             df -h
-            sudo sh deploy_blog.sh
+            sudo sh /deploy_blog.sh
           after_script: |
             whoami
