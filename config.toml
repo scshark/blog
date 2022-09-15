@@ -67,7 +67,7 @@ theme = "DoIt"
     #  是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
-      index = ""
+      index = "blog"
       appID = ""
       searchKey = ""
     [params.search.fuse]
