@@ -43,7 +43,7 @@ theme = "DoIt"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-    svgFavicon = https://blog.cdn.scshark.com/scshark%2Ficon.svg"
+    svgFavicon = "https://blog.cdn.scshark.com/scshark%2Ficon.svg"
     # Safari 图标颜色
     iconColor = "#5bbad5"
     # Windows v8-10磁贴颜色
