@@ -13,7 +13,7 @@ jobs:
           host: ${{ secrets.SERVER_HOST }}
           port: ${{ secrets.SERVER_PORT }}
           username: ${{ secrets.SERVER_USERNAME }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
+          password: ${{ secrets.SERVER_PASSWORD }}
           scp_source: README.md
           scp_target: ~/
           before_script: |
