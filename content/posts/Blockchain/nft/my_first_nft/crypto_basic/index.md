@@ -8,6 +8,7 @@ description: "欢迎来到《我的第一个 NFT》，在这里你可以铸造�
 tags: ["Bitcoin","Ethereum","Blockchain"]
 categories: ["NFT"]
 series: ["my-first-nft"]
+series-weight: 0
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -23,11 +24,10 @@ lightgallery: true
 
 ---
 
-> ## 区块链是什么？
-> {{< typeit >}} **在介绍加密货币之前，我们不得不提到加密货币的底层技术——区块链** {{< /typeit >}}
-
 <!--more-->
 
+> ## 区块链是什么？
+>  {{< typeit >}} **在介绍加密货币之前，我们不得不提到加密货币的底层技术——区块链** {{< /typeit >}}
 
 ### 这是一个区块 {#block}
 * 每一个区块包括两个部分：交易记录等一些信息, 和之前的区块摘要（哈希）。

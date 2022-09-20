@@ -53,7 +53,7 @@ theme = "DoIt"
   [params.search]
     enable = true
     # 搜索引擎的类型 ("lunr", "algolia", "fuse")
-    type = "fuse"
+    type = "algolia"
     # 文章内容最长索引长度
     contentLength = 4000
     # 搜索框的占位提示语
@@ -68,17 +68,17 @@ theme = "DoIt"
     absoluteURL = false
     [params.search.algolia]
       index = "blog"
-      appID = ""
-      searchKey = ""
+      appID = "APZT9FK74M"
+      searchKey = "1baf2a49415366d2ced706ec768d82aa"
     [params.search.fuse]
       #  https://fusejs.io/api/options.html
       isCaseSensitive = false
       minMatchCharLength = 2
       findAllMatches = false
       location = 0
-      threshold = 0.3
+      threshold = 0.4
       distance = 100
-      ignoreLocation = false
+      ignoreLocation = true
       useExtendedSearch = false
       ignoreFieldNorm = false
 
