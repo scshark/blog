@@ -29,7 +29,7 @@ jobs:
      
       - name: Update Algolia Index 
         env:
-          ALGOLIA_APP_ID: 5YGRNRQK1G
+          ALGOLIA_APP_ID: APZT9FK74M
           ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
           ALGOLIA_INDEX_NAME: 'blog'
           ALGOLIA_INDEX_FILE: './public/index.json'
