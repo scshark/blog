@@ -32,7 +32,7 @@ lightgallery: true
 **目前最流行的以太坊钱包是 MetaMask（{{< link "https://metamask.io" "https://metamask.io/" >}}），下面将介绍如何安装和创建钱包。推荐使用 Chrome 浏览器。**
 
 
-### :one: **安装 Chrome 浏览器插件** 16638167507066
+### :one: **安装 Chrome 浏览器插件**
 
 打开 MetaMask 官方下载页面 {{< link "https://metamask.io/download" "https://metamask.io/download" >}}，选择 Chrome 并点击 “Install MetaMask for Chrome” 按钮。
 {{< image src="https://blog.cdn.scshark.com/scshark/2022-09-22/16638157927896.jpg"  >}}
