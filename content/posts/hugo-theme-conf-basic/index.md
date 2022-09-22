@@ -1,10 +1,9 @@
 ---
 title: "Hugo主题Doit---基本配置"
 date: 2022-09-09T16:21:02+08:00
-draft: true
+draft: false
 authors: ["Alan"]
 description: "探索 Hugo - DoIt 主题的全部内容和背后的核心概念."
-
 tags: ["hugo","hugo-theme"]
 categories: ["hugo"]
 series: ["hugo-theme-doit"]

@@ -8,8 +8,7 @@ description: "欢迎来到《我的第一个 NFT》，在这里你可以铸造�
 tags: ["Bitcoin","Ethereum","Blockchain"]
 categories: ["NFT"]
 series: ["my-first-nft"]
-series-weight: 0
-
+series_weight: 1
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
