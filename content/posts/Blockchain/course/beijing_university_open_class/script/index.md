@@ -5,7 +5,7 @@ lastmod: 2022-11-14T15:30:28+08:00
 draft: false
 authors: ["scshark"]
 description: "记录分析比特币使用的脚本与原理"
-tags: []
+tags: ["P2PK","P2PKH","P2SH","CHECKMULTISIG","Proof of Burn","redeemscript"]
 categories: ["Blockchain"]
 series: ["bju-openclass-blockchain"]
 series-weight: 8
@@ -416,6 +416,7 @@ lightgallery: true
 下面这个输出脚本的内容，跟前面讲的是一样的。**现在的多重签名，一般都是采用这种`pay to script hash`的形式。**
 
 
+### Proof of Burn (销毁) {#proof-of-burn}
 
 {{<image src="https://blog.cdn.scshark.com/scshark/2022-11-15/16684938038269.jpg" caption="销毁" >}}
 
