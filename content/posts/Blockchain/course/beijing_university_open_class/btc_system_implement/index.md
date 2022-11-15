@@ -156,7 +156,7 @@ lightgallery: true
 
 所以真正挖矿的时候只有两层循环，外层循环调整`coinbase`域的`extra nonce`。算出`block header`里的根哈希值之后，内层循环再调整`header`里的`nonce`。
 
-## **普通的转账交易的例子** {#transaction_example}
+## 普通的转账交易的例子 {#transaction_example}
 {{< image src="https://blog.cdn.scshark.com/scshark/2022-10-13/16656444196952.jpg" caption="Transaction" >}}
 
 **该交易有两个输入和两个输出。**

@@ -9,9 +9,6 @@ math:
   enable: true
 ---
 
-> [:(far fa-edit fa-fw): DoIt](https://github.com/HEIGE-PCloud/DoIt) 是一个由 [HEIGE-PCloud](https://github.com/HEIGE-PCloud) 开发的**简洁**、**优雅**且**高效**的 [Hugo](https://gohugo.io/) 博客主题。
->
-> 它的原型基于 [LoveIt 主题](https://github.com/dillonzq/LoveIt)， [LeaveIt 主题](https://github.com/liuzc/LeaveIt) 和 [KeepIt 主题](https://github.com/Fastbyte01/KeepIt)。
 
 ## 特性
 
@@ -81,41 +78,3 @@ math:
 * :(fas fa-cookie-bite fa-fw): 支持基于 [cookieconsent](https://github.com/osano/cookieconsent) 的 **Cookie 许可横幅**
 * ...
 
-## 许可协议
-
-DoIt 根据 **MIT** 许可协议授权。
-
-更多信息请查看 [LICENSE 文件](https://github.com/HEIGE-PCloud/DoIt/blob/main/LICENSE)。
-
-DoIt 主题中用到了以下项目，感谢它们的作者：
-
-* [normalize.css](https://github.com/necolas/normalize.css)
-* [Font Awesome](https://fontawesome.com/)
-* [Simple Icons](https://github.com/simple-icons/simple-icons)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [autocomplete.js](https://github.com/algolia/autocomplete.js)
-* [Lunr.js](https://lunrjs.com/)
-* [algoliasearch](https://github.com/algolia/algoliasearch-client-javascript)
-* [Fuse.js](https://fusejs.io/)
-* [lazysizes](https://github.com/aFarkas/lazysizes)
-* [object-fit-images](https://github.com/fregante/object-fit-images)
-* [Twemoji](https://github.com/twitter/twemoji)
-* [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
-* [clipboard.js](https://github.com/zenorocha/clipboard.js)
-* [Sharer.js](https://github.com/ellisonleao/sharer.js)
-* [TypeIt](https://typeitjs.com/)
-* [$ \KaTeX $](https://katex.org/)
-* [mermaid](https://github.com/knsv/mermaid)
-* [ECharts](https://echarts.apache.org/)
-* [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
-* [APlayer](https://github.com/MoePlayer/APlayer)
-* [MetingJS](https://github.com/metowolf/MetingJS)
-* [Gitalk](https://github.com/gitalk/gitalk)
-* [Valine](https://valine.js.org/)
-* [Waline](https://waline.js.org/)
-* [Twikoo](https://twikoo.js.org/)
-* [Vssue](https://vssue.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
-* [Pjax](https://github.com/PaperStrike/Pjax)
-* [Topbar](https://github.com/buunguyen/topbar)
-* [Remark42](https://remark42.com/)
