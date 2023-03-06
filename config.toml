@@ -108,7 +108,7 @@ theme = "DoIt"
   [params.footer]
     enable = true
     #  自定义内容 (支持 HTML 格式)
-    custom = '💎🙌'
+    custom = '💎🙌 ｜ <a title="Hato 社区" href="http://hato.scshark.com" target="_blank" >Hato 社区</a> ｜  <a title="Reference 速查表" href="https://ref.scshark.com" target="_blank" >Reference 速查表</a>'
     #  是否显示 Hugo 和主题信息
     hugo = false
     #  托管服务信息 (支持 HTML 格式)
@@ -756,19 +756,19 @@ series = "series"
     title = ""
     weight = 5
   [[menu.main]]
-    identifier = "showcase"
+    identifier = ""
     pre = ""
     post = ""
-    name = "资源"
-    url = "/resource/"
-    title = ""
+    name = "Hato"
+    url = "http://hato.scshark.com"
+    title = "Hato社区"
     weight = 6
   [[menu.main]]
-    identifier = "about"
+    identifier = ""
     pre = ""
     post = ""
-    name = "关于"
-    url = "/about/"
+    name = "Reference"
+    url = "https://ref.scshark.com"
     title = ""
     weight = 7
   [[menu.main]]
