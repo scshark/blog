@@ -760,7 +760,7 @@ series = "series"
     pre = ""
     post = ""
     name = "Hato"
-    url = "http://hato.scshark.com"
+    url = ""
     title = "Hato社区"
     weight = 6
   [[menu.main]]
