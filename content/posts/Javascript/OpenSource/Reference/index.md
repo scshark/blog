@@ -6,7 +6,7 @@ draft: false
 authors: ["scshark"]
 description: "为开发人员分享快速参考备忘清单(速查表)"
 tags: ["Javascript","Docker","Npm","React","TypeScript"]
-categories: []
+categories: ["Javascript"]
 series: []
 
 hiddenFromHomePage: false
