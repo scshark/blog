@@ -14,8 +14,8 @@ series-weight: 3
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://blog.cdn.scshark.com/scshark/2022-10-10/16653949103257.jpg"
-featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2022-10-10/16653949103257.jpg"
+featuredImage: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805757940288.jpg"
+featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805757940288.jpg"
 
 toc:
   enable: true

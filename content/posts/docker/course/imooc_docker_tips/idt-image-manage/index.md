@@ -4,7 +4,7 @@ date: 2023-03-30T16:27:52+08:00
 lastmod: 2023-03-30T16:27:52+08:00
 draft: false
 authors: ["scshark"]
-description: "Docker 系统性入门+进阶实践 </br> 讲师：<a href='https://github.com/xiaopeng163' _target='blank' >Peng Xiao</a>"
+description: "Docker 系统性入门"
 tags: ["Docker","Dockerfile","Buildkit"]
 categories: ["Docker"]
 series: ["imooc-docker-tips"]

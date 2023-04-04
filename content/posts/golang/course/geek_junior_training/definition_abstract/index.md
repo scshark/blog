@@ -4,16 +4,16 @@ date: 2023-03-17T16:46:15+08:00
 lastmod: 2023-03-17T16:46:15+08:00
 draft: false
 authors: ["scshark"]
-description: "Go初级训练营第二课 </br> 讲师：Big Ming"
+description: ""
 tags: ["golang","course"]
-categories: []
+categories: ["golang"]
 series: ["geek-junior-training"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://blog.cdn.scshark.com/scshark/2023-03-16/16789676574445.jpg"
-featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2023-03-16/16789676574445.jpg"
+featuredImage: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805752734407.jpg"
+featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805752734407.jpg"
 
 toc:
   enable: true
@@ -25,6 +25,7 @@ license: ""
 ---
 
 <!--more-->
+
 
 ## Http 包 {#package-http}
 

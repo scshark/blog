@@ -4,7 +4,7 @@ date: 2023-03-28T18:28:57+08:00
 lastmod: 2023-03-28T18:28:57+08:00
 draft: false
 authors: ["scshark"]
-description: "容器正在引领基础架构的一场新的革命 </br> Docker 系统性入门+进阶实践 </br> 讲师：<a href='https://github.com/xiaopeng163' _target='blank' >Peng Xiao</a>"
+description: "容器正在引领基础架构的一场新的革命"
 tags: ["Docker","Container"]
 categories: ["Docker"]
 series: ["imooc-docker-tips"]

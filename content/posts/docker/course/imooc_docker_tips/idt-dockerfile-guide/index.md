@@ -4,7 +4,7 @@ date: 2023-03-31T10:53:17+08:00
 lastmod: 2023-03-31T10:53:17+08:00
 draft: false
 authors: ["scshark"]
-description: "Docker 系统性入门+进阶实践 </br> 讲师：<a href='https://github.com/xiaopeng163' _target='blank' >Peng Xiao</a>"
+description: "Docker 系统性入门</a>"
 tags: ["Docker","Dockerfile"]
 categories: ["Docker"]
 series: ["imooc-docker-tips"]
@@ -563,7 +563,8 @@ Successfully tagged demo:latest
 env/
 ```
 
-有了 **`.dockerignore`** 文件后，我们再 **build**, **`build context`** 就小了很多，4.096kB
+有了 **`.dockerignore`** 
+文件后，我们再 **build**, **`build context`** 就小了很多，4.096kB
 
 如下：
 

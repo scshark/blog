@@ -4,7 +4,7 @@ date: 2023-03-10T19:16:01+08:00
 lastmod: 2023-03-10T19:16:01+08:00
 draft: false
 authors: ["scshark"]
-description: "课程讲师：Xargin"
+description: ""
 tags: ["golang","course"]
 categories: ["golang"]
 series: ["imooc-golive"]
@@ -12,8 +12,8 @@ series: ["imooc-golive"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://blog.cdn.scshark.com/scshark/2023-03-11/16785133911470.jpg"
-featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2023-03-11/16785133911470.jpg"
+featuredImage: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805755867946.jpg"
+featuredImagePreview: "https://blog.cdn.scshark.com/scshark/2023-04-04/16805755867946.jpg"
 
 toc:
   enable: true
@@ -26,6 +26,7 @@ license: ""
 
 
 <!--more-->
+
 
 
 ## ⼯程师的学习与进步 {#Study-Engineers}
